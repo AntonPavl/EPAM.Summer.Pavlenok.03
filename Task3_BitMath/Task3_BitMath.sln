@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3_BitMath", "Task3_BitMath.csproj", "{9B5A06C8-6B8B-4681-AD50-D6EA2675B677}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delete", "..\Delete\Delete.csproj", "{3BC5827C-05EE-4ADB-B8CC-34A689BA66BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3_BitMathNTest", "..\Task3_BitMathNTest\Task3_BitMathNTest.csproj", "{067456C0-086C-46A8-B37F-1405717B7BFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B5A06C8-6B8B-4681-AD50-D6EA2675B677}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B5A06C8-6B8B-4681-AD50-D6EA2675B677}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B5A06C8-6B8B-4681-AD50-D6EA2675B677}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B5A06C8-6B8B-4681-AD50-D6EA2675B677}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BC5827C-05EE-4ADB-B8CC-34A689BA66BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BC5827C-05EE-4ADB-B8CC-34A689BA66BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BC5827C-05EE-4ADB-B8CC-34A689BA66BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BC5827C-05EE-4ADB-B8CC-34A689BA66BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{067456C0-086C-46A8-B37F-1405717B7BFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{067456C0-086C-46A8-B37F-1405717B7BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{067456C0-086C-46A8-B37F-1405717B7BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{067456C0-086C-46A8-B37F-1405717B7BFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
