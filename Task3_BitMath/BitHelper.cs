@@ -14,8 +14,8 @@ namespace Task3_BitMath
         /// </summary>
         /// <param name="a">Main number</param>
         /// <param name="b">Inserted number</param>
-        /// <param name="posi"></param>
-        /// <param name="posj"></param>
+        /// <param name="posi">Rewrite start position</param>
+        /// <param name="posj">Rewrite end position</param>
         /// <returns></returns>
         public static int PasteNumInNum(int a, int b, int posi, int posj)
         {
